@@ -1,8 +1,8 @@
 {
-	"Name": "air_strike",
+	"Name": "tactical-projectile-systems",
 	"Authors": ["Doc"],
-	"Description": "air strike bases",
-	"Version": "5",
+	"Description": "launch smoke / grenades any where on map",
+	"Version": "1",
 	"HasWebUI": true,
 	"Tags": ["air-strike"],
 	"HasVeniceEXT": true
