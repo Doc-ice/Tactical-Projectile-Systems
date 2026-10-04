@@ -3,7 +3,6 @@
 
 A Venice Unleashed (VU) mod that adds tactical projectile systems, including grenade and smoke launch capabilities, with Coherent Gameface integration for the user interface.
 
-Tactical Projectile Systems
 Get 7 kills to unlock the Tactical Projectile Systems.
 
 Once unlocked, press F1 to open the Tactical Projectile Systems interface.
