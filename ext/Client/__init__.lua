@@ -16,7 +16,8 @@ Events:Subscribe('Level:Destroy', function()
    WebUI:Hide()
    WebUI:DisableMouse()
 end)
-
+UPDATE_RATE=6
+m_UpdateTimer=0
 STRIKE_COUNT_CAP = 24 -- matches the WebUI sliders' own hard max
 
 -- How many missiles/smoke grenades the current kill streak has earned:
